@@ -15,4 +15,13 @@ body {
     width: 100%;
     height: 100%;
     display: flex;
+    Align-items: center;
+    Justify-content: center;
 }
+/* 
+.center {
+  position: absolute;
+  top: 50%;
+  Left: 50%;
+  transform: translate(-50%, -50%);
+} */
